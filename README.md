@@ -56,11 +56,6 @@ The output for each rover should be its final co-ordinates and heading.
 
 ---
 
-## Setup
-1. Download the repository.
-2. Make the corresponding modifications.
-3. Create a pull request to review the challenge.
-
 ## Input Cheat Sheet
 The output for each rover should be its final co-ordinates and heading.
 
