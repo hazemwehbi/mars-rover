@@ -14,6 +14,7 @@
 
 ## The Architecture Class and Directory:
    src     --->    Model --> Command     --> Contains the Command Classes ( TurnLeft, TurnRight, Move, Rotation)
+   
                              Coordinate  --> Contains the Coordinate Classes
                              Direction   --> Contains the Direction Classes   (North, West, East, South)
                              Plateau     --> Contains the Plateau Classes     (The classes that draw the Plateau on Mars)
@@ -21,6 +22,7 @@
                    Service ---> Design Pattern Classes
 
    Test      --->  Model Unit Test --> Command    --> Contains the Unit Test Of Command Classes ( TurnLeft, TurnRight, Move, Rotation)
+   
                              Coordinate Unit Test --> Contains the Unit Test Of Coordinate Classes
                              Direction Unit Test  --> Contains the Unit Test Of Direction Classes (North, West, East, South)
                              Plateau Unit Test    --> Contains the Unit Test Of Plateau Classes  (The classes that draw the Plateau on Mars)
