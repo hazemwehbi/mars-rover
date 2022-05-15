@@ -8,10 +8,6 @@
     We used here because we have a superclass Command with multiple sub-classes
     (MOVE, TURN_RIGHT, TURN_LEFT) and based on input, we need to return one of the sub-class.
 
-2 - Iterator Design Pattern: 
-    It's a behavioral design pattern that allows sequential traversal through a complex data structure without 
-    exposing its internal details. I used to travel through the Plateau on Mars.
-
 ## The Architecture Class and Directory:
    src     --->    Model --> Command     --> Contains the Command Classes ( TurnLeft, TurnRight, Move, Rotation)
    
