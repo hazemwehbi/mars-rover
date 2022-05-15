@@ -1,4 +1,4 @@
-# Backend Interview Challenge
+# Mars Rover Challenge
 
 ## How to execute the program:
 `php index.php < input.txt`
